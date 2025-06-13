@@ -31,5 +31,4 @@ const company:GenericArray<{name:string,age:number}>=[
 
 
 
-
 }
